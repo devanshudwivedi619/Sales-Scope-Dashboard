@@ -1,0 +1,51 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country/Region,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,CA-2020-913321,01-01-2018,05-01-2018,Second Class,CUST-1942,Chris Lee,Consumer,United States,Seattle,Massachusetts,60365,West,PROD-660556,Technology,Binders,Standing Desk,225.98,3,0.3,31.96
+2,CA-2018-330739,30-01-2018,01-02-2018,Standard Class,CUST-4926,Mia Anderson,Consumer,United States,Denver,Massachusetts,65329,South,PROD-166908,Technology,Storage,Wall Art,1115.47,4,0.3,-36.33
+3,CA-2021-978922,01-03-2018,06-03-2018,Standard Class,CUST-6050,Mia Anderson,Consumer,United States,Austin,Colorado,79441,West,PROD-393564,Office Supplies,Art,Wall Art,1988.67,4,0.0,362.64
+4,CA-2018-329614,31-03-2018,04-04-2018,First Class,CUST-4371,Emma Johnson,Corporate,United States,Los Angeles,Texas,47859,South,PROD-713703,Technology,Phones,Air Conditioner,42.91,6,0.4,2.07
+5,CA-2019-860273,30-04-2018,05-05-2018,Same Day,CUST-7195,Liam Miller,Home Office,United States,Seattle,Massachusetts,79554,West,PROD-720598,Office Supplies,Binders,Printer Paper,1842.19,4,0.4,-110.8
+6,CA-2020-869235,29-05-2018,02-06-2018,Standard Class,CUST-2826,John Smith,Corporate,United States,Boston,Illinois,81403,South,PROD-610935,Technology,Art,Printer Paper,1069.44,9,0.3,186.32
+7,CA-2021-819220,28-06-2018,03-07-2018,Standard Class,CUST-7002,Chris Lee,Corporate,United States,Houston,Washington,12247,Central,PROD-828386,Technology,Binders,Printer Paper,1332.71,8,0.2,-110.09
+8,CA-2019-101971,28-07-2018,03-08-2018,Standard Class,CUST-2721,Mia Anderson,Consumer,United States,Denver,California,82137,South,PROD-158387,Furniture,Tables,Wall Art,220.54,1,0.1,45.39
+9,CA-2020-465768,27-08-2018,31-08-2018,Second Class,CUST-1669,John Smith,Corporate,United States,Los Angeles,New York,20874,Central,PROD-571870,Office Supplies,Bookcases,Printer Paper,1316.26,6,0.4,-4.88
+10,CA-2020-726410,26-09-2018,01-10-2018,First Class,CUST-6663,John Smith,Consumer,United States,Seattle,California,30917,West,PROD-996095,Furniture,Art,Bookshelf,704.5,2,0.3,65.85
+11,CA-2018-831253,25-10-2018,28-10-2018,Second Class,CUST-3494,Emma Johnson,Home Office,United States,Los Angeles,Illinois,25407,West,PROD-771405,Technology,Storage,Bookshelf,83.37,3,0.2,-4.37
+12,CA-2020-299925,24-11-2018,28-11-2018,Second Class,CUST-2745,Isabella Moore,Consumer,United States,San Francisco,Texas,30966,Central,PROD-913324,Furniture,Storage,Office Chair,1100.93,8,0.1,-69.78
+13,CA-2021-107313,24-12-2018,26-12-2018,First Class,CUST-3485,Michael Brown,Home Office,United States,Los Angeles,Texas,27804,East,PROD-198997,Furniture,Paper,Bookshelf,140.86,2,0.4,-7.17
+14,CA-2021-179512,23-01-2019,29-01-2019,Standard Class,CUST-4181,Ethan Taylor,Consumer,United States,Seattle,California,66531,South,PROD-357093,Technology,Phones,Binder Set,1076.32,5,0.3,-49.5
+15,CA-2018-499044,22-02-2019,25-02-2019,First Class,CUST-5463,John Smith,Consumer,United States,New York,Texas,65114,Central,PROD-984159,Technology,Bookcases,File Cabinet,1602.64,6,0.1,88.42
+16,CA-2019-330866,23-03-2019,25-03-2019,Standard Class,CUST-5615,John Smith,Corporate,United States,San Francisco,Massachusetts,78693,South,PROD-337642,Office Supplies,Binders,Air Conditioner,788.46,1,0.0,-134.75
+17,CA-2021-408198,22-04-2019,26-04-2019,First Class,CUST-6430,Sophia Davis,Corporate,United States,Dallas,California,26864,South,PROD-279763,Furniture,Bookcases,File Cabinet,1089.79,1,0.1,232.52
+18,CA-2021-728494,22-05-2019,24-05-2019,Standard Class,CUST-2910,Sophia Davis,Corporate,United States,San Francisco,New York,41585,South,PROD-477711,Technology,Chairs,Bookshelf,1677.41,2,0.1,-278.3
+19,CA-2020-222299,21-06-2019,27-06-2019,Second Class,CUST-1652,Liam Miller,Consumer,United States,Los Angeles,Massachusetts,48240,Central,PROD-876067,Furniture,Paper,iPhone VoIP,699.62,8,0.2,45.95
+20,CA-2019-109509,21-07-2019,26-07-2019,First Class,CUST-8003,Sophia Davis,Consumer,United States,Houston,Texas,76520,Central,PROD-202107,Office Supplies,Bookcases,Bookshelf,1847.26,7,0.4,-193.98
+21,CA-2018-153656,19-08-2019,25-08-2019,First Class,CUST-5150,Ethan Taylor,Corporate,United States,Dallas,Colorado,61516,East,PROD-354121,Office Supplies,Phones,iPhone VoIP,1481.98,4,0.4,6.53
+22,CA-2020-298385,18-09-2019,23-09-2019,Standard Class,CUST-7131,Ethan Taylor,Home Office,United States,Chicago,California,43160,South,PROD-594173,Furniture,Binders,Office Chair,305.69,8,0.1,-45.36
+23,CA-2021-777386,18-10-2019,24-10-2019,Standard Class,CUST-1760,Mia Anderson,Home Office,United States,Houston,Massachusetts,37015,Central,PROD-296209,Office Supplies,Appliances,Bookshelf,1950.32,4,0.4,188.72
+24,CA-2018-878684,17-11-2019,19-11-2019,First Class,CUST-6486,Michael Brown,Corporate,United States,Houston,Washington,65106,Central,PROD-285590,Technology,Tables,Binder Set,1348.45,5,0.4,90.32
+25,CA-2020-937775,17-12-2019,22-12-2019,Second Class,CUST-4489,Liam Miller,Consumer,United States,Seattle,New York,77914,West,PROD-799832,Technology,Appliances,Standing Desk,995.93,7,0.0,-21.2
+26,CA-2021-722090,15-01-2020,18-01-2020,Standard Class,CUST-1980,Sophia Davis,Corporate,United States,New York,Washington,25749,Central,PROD-420989,Office Supplies,Art,File Cabinet,1402.6,7,0.3,-191.91
+27,CA-2018-427142,14-02-2020,20-02-2020,Second Class,CUST-8167,Olivia Wilson,Home Office,United States,Houston,New York,24812,Central,PROD-538057,Technology,Phones,Wall Art,1820.48,5,0.1,-200.48
+28,CA-2021-417270,15-03-2020,19-03-2020,Standard Class,CUST-5803,Chris Lee,Home Office,United States,Dallas,Washington,63935,Central,PROD-330539,Office Supplies,Binders,Air Conditioner,563.84,5,0.1,-9.56
+29,CA-2021-570618,14-04-2020,17-04-2020,Standard Class,CUST-1308,John Smith,Corporate,United States,Seattle,Washington,14599,Central,PROD-718007,Office Supplies,Paper,iPhone VoIP,1489.71,1,0.0,311.87
+30,CA-2019-235325,14-05-2020,19-05-2020,Second Class,CUST-6992,Liam Miller,Corporate,United States,Dallas,California,96585,South,PROD-603670,Furniture,Bookcases,Office Chair,559.16,7,0.1,8.74
+31,CA-2018-432261,12-06-2020,17-06-2020,Same Day,CUST-2693,Mia Anderson,Home Office,United States,New York,New York,69911,East,PROD-824112,Office Supplies,Phones,Air Conditioner,584.58,7,0.3,100.23
+32,CA-2018-850700,12-07-2020,15-07-2020,Second Class,CUST-1736,Emma Johnson,Home Office,United States,Dallas,Texas,14860,Central,PROD-292461,Furniture,Paper,Office Chair,477.1,9,0.0,21.05
+33,CA-2019-553733,11-08-2020,17-08-2020,Second Class,CUST-7557,Ethan Taylor,Home Office,United States,Denver,Washington,82798,West,PROD-538413,Office Supplies,Phones,Standing Desk,1622.97,5,0.1,114.32
+34,CA-2019-998508,10-09-2020,14-09-2020,Same Day,CUST-4613,Emma Johnson,Corporate,United States,Denver,Massachusetts,63148,West,PROD-764744,Office Supplies,Bookcases,Wall Art,1604.41,2,0.3,-213.65
+35,CA-2021-450203,10-10-2020,14-10-2020,Same Day,CUST-9741,John Smith,Home Office,United States,Boston,Texas,80937,Central,PROD-293816,Furniture,Storage,Binder Set,1846.77,8,0.1,-14.53
+36,CA-2018-159559,08-11-2020,11-11-2020,Same Day,CUST-4177,Chris Lee,Consumer,United States,Houston,Massachusetts,95045,East,PROD-281198,Office Supplies,Phones,File Cabinet,76.33,5,0.3,6.71
+37,CA-2020-853890,08-12-2020,11-12-2020,Same Day,CUST-2695,Olivia Wilson,Corporate,United States,Denver,Illinois,78382,Central,PROD-427856,Technology,Binders,iPhone VoIP,31.27,5,0.1,5.13
+38,CA-2018-159774,07-01-2021,09-01-2021,First Class,CUST-7173,Ethan Taylor,Consumer,United States,Chicago,New York,15305,South,PROD-993911,Office Supplies,Appliances,Wall Art,1027.72,2,0.4,-113.31
+39,CA-2020-239278,06-02-2021,12-02-2021,Same Day,CUST-1568,John Smith,Home Office,United States,Boston,Texas,95387,East,PROD-692965,Office Supplies,Phones,iPhone VoIP,713.31,8,0.3,-5.66
+40,CA-2018-869724,08-03-2021,12-03-2021,First Class,CUST-4291,Ethan Taylor,Consumer,United States,Dallas,Texas,33524,South,PROD-322332,Technology,Art,File Cabinet,42.82,6,0.0,-2.77
+41,CA-2020-247300,06-04-2021,11-04-2021,Same Day,CUST-8840,Olivia Wilson,Home Office,United States,Denver,Colorado,83199,South,PROD-405320,Office Supplies,Storage,Printer Paper,441.05,5,0.4,62.55
+42,CA-2020-373835,06-05-2021,12-05-2021,Second Class,CUST-1947,Michael Brown,Consumer,United States,Dallas,New York,75199,South,PROD-861955,Office Supplies,Binders,Printer Paper,563.06,1,0.4,-45.13
+43,CA-2019-633527,05-06-2021,10-06-2021,Standard Class,CUST-8608,Mia Anderson,Home Office,United States,Denver,Massachusetts,26049,West,PROD-509251,Furniture,Bookcases,Standing Desk,1287.26,9,0.3,186.55
+44,CA-2020-479503,05-07-2021,07-07-2021,Second Class,CUST-1311,Sophia Davis,Corporate,United States,New York,Massachusetts,61653,South,PROD-512324,Furniture,Binders,Air Conditioner,1879.31,1,0.3,-103.37
+45,CA-2020-841808,04-08-2021,08-08-2021,Second Class,CUST-6555,Emma Johnson,Consumer,United States,Boston,Colorado,89543,South,PROD-379956,Office Supplies,Art,iPhone VoIP,1835.54,6,0.1,50.2
+46,CA-2019-322340,02-09-2021,05-09-2021,Standard Class,CUST-8802,Liam Miller,Consumer,United States,New York,Illinois,55214,Central,PROD-295283,Furniture,Storage,File Cabinet,1040.58,2,0.4,84.38
+47,CA-2019-749909,02-10-2021,06-10-2021,First Class,CUST-4621,Chris Lee,Home Office,United States,Los Angeles,California,77865,West,PROD-794556,Office Supplies,Chairs,Printer Paper,1582.68,2,0.3,61.58
+48,CA-2019-968497,01-11-2021,04-11-2021,Same Day,CUST-8513,Mia Anderson,Consumer,United States,Dallas,New York,90867,Central,PROD-230453,Furniture,Tables,Printer Paper,1523.79,2,0.4,194.51
+49,CA-2018-883558,01-12-2021,04-12-2021,Same Day,CUST-3786,Mia Anderson,Consumer,United States,Austin,California,90400,East,PROD-284859,Technology,Tables,Printer Paper,993.28,2,0.2,219.62
+50,CA-2020-856687,31-12-2021,05-01-2022,Second Class,CUST-2858,Michael Brown,Consumer,United States,New York,California,34118,South,PROD-327115,Technology,Bookcases,Bookshelf,746.34,4,0.4,-69.48
