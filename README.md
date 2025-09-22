@@ -52,7 +52,7 @@ Top performing sub-categories:
 
 ## 🛠️ Technology Stack
 
-- **Visualization Platform**: Power BI / Tableau
+- **Visualization Platform**: Power BI 
 - **Data Source**: Sales database
 - **Charts Used**: 
   - Pie Charts for segment and regional analysis
