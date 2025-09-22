@@ -162,25 +162,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### 📸 Dashboard Screenshots
 
 #### Complete Dashboard Overview
-![Dashboard Overview](Devanshu Sales .png.png)
+![Dashboard Overview](https://github.com/devanshudwivedi619/Sales-Scope-Dashboard/blob/main/Devanshu%20Sales%20.png.png)
 *Complete dashboard view with all key metrics and visualizations*
 
 #### Sales Analysis by Segment
-![Sales by Segment](Sum of Sales by Segment.png.png)
+![Sales by Segment](https://github.com/devanshudwivedi619/Sales-Scope-Dashboard/blob/main/Sum%20of%20Sales%20by%20Segment.png.png)
 *Pie chart showing Consumer (37.5%), Corporate (33.04%), and Home Office (29.46%) segments*
 
 #### Time Series Analysis
-![Sales by Order Date](Sum of Sales by order Date .png.png)
+![Sales by Order Date](https://github.com/devanshudwivedi619/Sales-Scope-Dashboard/blob/main/Sum%20of%20Sales%20by%20order%20Date%20.png.png)
 *Monthly sales trends from 2018-2021 showing seasonal patterns*
 
 #### Product Category Performance
-![Sales by Sub-Category](Sales by subcatorgory.png.png)
+![Sales by Sub-Category](https://github.com/devanshudwivedi619/Sales-Scope-Dashboard/blob/main/Sales%20by%20subcatorgory.png.png)
 *Horizontal bar chart displaying top-performing product categories*
 
 #### Geographic Distribution
-![Geographic Map](Grographical state map.png.png)
+![Geographic Map](http://github.com/devanshudwivedi619/Sales-Scope-Dashboard/blob/main/Grographical%20state%20map.png.png)
 *Interactive US map showing state-wise sales distribution*
 
 #### Regional Sales Breakdown
-![Regional Performance](Sum of Sales by Region .png.png)
+![Regional Performance](https://github.com/devanshudwivedi619/Sales-Scope-Dashboard/blob/main/Sum%20of%20Sales%20by%20Region%20.png.png)
 *Donut chart showing Central (41.3%), South (27.95%), West (23.04%), East (7.7%) regions*
